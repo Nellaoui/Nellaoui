@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nellaoui&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--
 **Nellaoui/Nellaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
