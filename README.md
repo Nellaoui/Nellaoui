@@ -15,7 +15,7 @@ Computer Science student at [1337](https://1337.ma/)
 
 <p align="left"> <a href="https://twitter.com/noa_m1n" target="blank"><img src="https://img.shields.io/twitter/follow/noa_m1n?logo=twitter&style=for-the-badge" alt="noa_m1n" /></a> </p>
 
-- 🔭 I’m currently working on **Get next line**
+- 🔭 I’m currently working on **Philosophers**
 
 - 🌱 I’m currently learning **C**
 
