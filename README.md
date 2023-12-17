@@ -1,6 +1,6 @@
 Computer Science student at [1337](https://1337.ma/) 
 ------------
-| ![giphy](https://user-images.githubusercontent.com/103364555/201115887-6a05f651-34e3-46d7-b5d9-c3d7b1cd74ff.gif) | ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=y7i89kmwuat5ncsm88hd90yg3) |
+| ![giphy](https://user-images.githubusercontent.com/103364555/201115887-6a05f651-34e3-46d7-b5d9-c3d7b1cd74ff.gif) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31e27zrv2tdi4tm57rpzy2lc4xke&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31e27zrv2tdi4tm57rpzy2lc4xke&redirect=true)|
 |:-:|:-:|
 ------------
 | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nellaoui&theme=darcula&hide_border=false)](https://git.io/streak-stats) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nellaoui&theme=darcula&hide_border=false)](https://github.com/anuraghazra/github-readme-stats) |
