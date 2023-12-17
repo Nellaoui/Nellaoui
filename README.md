@@ -15,11 +15,11 @@ Computer Science student at [1337](https://1337.ma/)
 
 <p align="left"> <a href="https://twitter.com/noa_m1n" target="blank"><img src="https://img.shields.io/twitter/follow/noa_m1n?logo=twitter&style=for-the-badge" alt="noa_m1n" /></a> </p>
 
-- 🔭 I’m currently working on **Philosophers**
+- 🔭 I’m currently working on **C++**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **wacnoaman@gmail.com**
+- 📫 How to reach me <a href="https://instagram.com/noa_m1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noa_m1n" height="30" width="40" /></a>
 
 - ⚡ Fun fact **i can make you laugh**
 
